@@ -41,5 +41,5 @@ Medidas de tempo de 10 oscilações, com 5 repetições (T1 a T5), para:
 
 ## Bibliotecas
 
-Python, pandas, NumPy, Matplotlib.
+pandas, NumPy, Matplotlib.
 
