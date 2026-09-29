@@ -39,20 +39,6 @@ Medidas de tempo de 10 oscilações, com 5 repetições (T1 a T5), para:
 - O período aumenta com o ângulo nos quatro comprimentos, como esperado para
   amplitudes maiores.
 
-## Estrutura do repositório
-
-```
-├── relatorio2.ipynb   # notebook com toda a análise
-├── dados/             # planilhas com os tempos medidos
-└── README.md
-```
-
-## Como executar
-
-1. Clone o repositório ou abra o notebook pelo botão do Colab acima.
-2. Instale as dependências: `pip install pandas numpy matplotlib openpyxl scipy`
-3. Execute as células em ordem.
-
 ## Bibliotecas
 
 Python, pandas, NumPy, Matplotlib.
