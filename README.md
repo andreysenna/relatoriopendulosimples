@@ -19,7 +19,6 @@ Medidas de tempo de 10 oscilações, com 5 repetições (T1 a T5), para:
 - Comprimentos: 100, 90, 80 e 70 cm
 - Ângulos: 5°, 10°, 20°, 30° e 40°
 
-Os arquivos estão na pasta `dados/`.
 
 ## Método
 
